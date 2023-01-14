@@ -7,9 +7,9 @@ CycleGAN is primarily used to transform domain of an image into another domain. 
 Human :
 ![Image text](https://github.com/ChenhaoZhu/human_to_cartoon/blob/main/img-folder/000006.jpg)
 Cartoon(Transformed) :
-![Image text](https://github.com/ChenhaoZhu/human_to_cartoon/blob/main/img-folder/0006.jpg)
+![Image text](https://github.com/ChenhaoZhu/human_to_cartoon/blob/main/img-folder/0006.png)
 
 Cartoon :
 ![Image text](https://github.com/ChenhaoZhu/human_to_cartoon/blob/main/img-folder/yueertaitai0.jpg)
 Human(Transformed) :
-![Image text](https://github.com/ChenhaoZhu/human_to_cartoon/blob/main/img-folder/0007.jpg)
+![Image text](https://github.com/ChenhaoZhu/human_to_cartoon/blob/main/img-folder/0007.png)
